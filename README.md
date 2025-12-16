@@ -1,1 +1,4 @@
-# CS_370_Current-Emerging_trends_in_CS
+       In this project, we have been asked to design an intelligent agent for an NPC to represent the pirate. The pirate must navigate the game world, with its various pathways and obstacles, to find the treasure. The pirate agent’s goal is to find the treasure before the human player. We were required to complete the code for the Q-training algorithm so the agent could achieve its goal. The starter code and sample environment were provided. I finished the code by completing Q-learning logic.
+‌	Throughout this course, I learned that computer scientists design, analyze, and improve systems that solve complex problems by using algorithms, data, and learning models. This work is important because it addresses real-world problems and influences decisions.
+	As a computer scientist, I approach problems by decomposing them into smaller components, analyzing them, and selecting appropriate algorithms and models.
+	My ethical responsibility is to ensure the system is accurate, fair, transparent, and that biases are mitigated. 
